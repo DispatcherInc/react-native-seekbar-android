@@ -1,6 +1,6 @@
 {
   "name": "react-native-seekbar-android",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native wrapper Android's SeekBar",  
   "scripts": {
     "test": "exit 0"
@@ -16,6 +16,9 @@
     "seekbar",
     "slider"
   ],
+  "peerDependencies": {
+    "react-native": ">=0.14.0"
+  },
   "author": "Kevin Stumpf",
   "license": "ISC",
   "bugs": {
