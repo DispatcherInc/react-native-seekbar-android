@@ -1,0 +1,25 @@
+{
+  "name": "react-native-seekbar-android",
+  "version": "1.0.0",
+  "description": "A React Native wrapper Android's SeekBar",  
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DispatcherInc/react-native-seekbar-android.git"
+  },
+  "keywords": [
+    "android",
+    "react-native",
+    "react-component",
+    "seekbar",
+    "slider"
+  ],
+  "author": "Kevin Stumpf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DispatcherInc/react-native-seekbar-android/issues"
+  },
+  "homepage": "https://github.com/DispatcherInc/react-native-seekbar-android#readme"
+}
